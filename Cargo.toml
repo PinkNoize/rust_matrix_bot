@@ -1,0 +1,7 @@
+[package]
+name = "rust_matrix_bot"
+version = "0.1.0"
+authors = ["p1nkn01z3 <21967246+p1nkn01z3@users.noreply.github.com>"]
+
+[dependencies]
+fractal-matrix-api = "3.30.0"
